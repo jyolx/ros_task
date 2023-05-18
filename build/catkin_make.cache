@@ -1,2 +1,2 @@
-mypkg
+mypkg:pkg_task2
 -DCATKIN_DEVEL_PREFIX=/home/linuxsystem/myws/devel -DCMAKE_INSTALL_PREFIX=/home/linuxsystem/myws/install -G Unix Makefiles

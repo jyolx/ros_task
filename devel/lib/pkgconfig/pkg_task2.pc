@@ -1,0 +1,8 @@
+prefix=/home/linuxsystem/myws/devel
+
+Name: pkg_task2
+Description: Description of pkg_task2
+Version: 0.0.0
+Cflags: -I/home/linuxsystem/myws/devel/include -I/home/linuxsystem/myws/src/pkg_task2/include
+Libs: -L${prefix}/lib -lpkg_task2
+Requires: roscpp rospy std_msgs
